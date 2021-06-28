@@ -1,6 +1,6 @@
 # Representation-and-Reporting-D210
 
-Part 1: Interactive Data Dashboard
+## Part 1: Interactive Data Dashboard
 
 A.  Provide a copy of your interactive Tableau dashboard to support executive decision-making. Your dashboard must be accessible to users with colorblindness, and must include the components in each of the following bullet points:
 
@@ -19,7 +19,7 @@ A.  Provide a copy of your interactive Tableau dashboard to support executive de
 3.  Provide instructions to help users navigate the dashboard.
  
 
-Part 2: Storytelling with Data
+## Part 2: Storytelling with Data
 
 B.  Provide a link to a Panopto multimedia presentation in which you tell a story about the data to an audience of data analytics peers. Your presentation should implement elements of effective storytelling and include each of the following elements:
 
@@ -50,7 +50,7 @@ To submit your recording, upload it to the Panopto drop box titled “Representa
 
 
 
-Part 3: Reflection Paper
+## Part 3: Reflection Paper
 
 C.  Write a reflection paper to demonstrate your understanding of data representation and reporting by doing the following:
 
